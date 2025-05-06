@@ -8,5 +8,5 @@ nav:
   - Computing Resources: 05_Computing Resources.md
   - Examples: 06_Examples.md
 
-  
-theme: readthedocs
+ theme:
+   name: material
