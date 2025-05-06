@@ -1,6 +1,6 @@
 site_name: NFDI4BioImage Tool List
 nav:
-  - Home: Index.md
+  - Home: index.md
   - Analysis Software: 01_Analysis Software.md
   - AI Tools: 02_AI Tools.md
   - Research Data Management Platforms: 03_Research Data Management Platforms.md
