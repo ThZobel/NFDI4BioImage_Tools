@@ -1,2 +1,1 @@
-Template for the Read the Docs tutorial
-=======================================
+# Template for the Read the Docs tutorial
